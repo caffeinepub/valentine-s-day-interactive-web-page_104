@@ -1,0 +1,7 @@
+{
+  "frontend/src/App.tsx": "Main application component that manages the Valentine's state and renders either the question or success view with a romantic gradient background and footer.",
+  "frontend/src/components/ValentineQuestion.tsx": "Interactive question component featuring a \"Yes\" button and a playful \"No\" button that randomly moves around the screen on hover to avoid being clicked.",
+  "frontend/src/components/ValentineSuccess.tsx": "Success state component that displays a celebratory message with the meme image, floating hearts animation, and smooth fade-in effects.",
+  "frontend/src/index.css": "Global styles with Valentine's Day themed OKLCH color system (pink and white palette) and custom animations including heartbeat, floating, and fade-in effects.",
+  "frontend/tailwind.config.js": "Tailwind configuration extended with custom Valentine's Day color tokens for consistent theming throughout the application."
+}
